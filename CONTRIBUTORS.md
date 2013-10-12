@@ -10,6 +10,8 @@ These people have contributed to ActivateHub's design and implementation:
   * Peter Welte
   * Scott Duncombe
   * Lucas (theoretick)
+  * and barely anything yet MarkDilley
+  * Elona
 
 For the most up to date list of people who have made commits to ActivateHub:
 
